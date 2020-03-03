@@ -19,10 +19,4 @@ jobs:
         java-version: 1.8
     - name: Build with Maven
       run: mvn -B package --file pom.xml
-    
-    - uses: actions/checkout@master
-    - name: SonarQube Scan
-      uses: kitabisa/sonarqube-action@master
-      with:
-        host: http://3.231.7.71:9000/
-        login: 5c72e72b11e33373319c3326360a6fa5d28ec902
+
