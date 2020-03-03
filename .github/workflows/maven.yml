@@ -21,7 +21,7 @@ jobs:
       run: mvn -B package --file pom.xml
     
     - name: Scan code with sonarqube
-      uses:  antonionovaesjr/sample-java-app@master
+      uses:  minddocdev/sonarqube-action@master
       with:
         app: sample-java-app
         baseDir: src
