@@ -1,2 +1,2 @@
 asd
-GITHUB_PR_SOURCE_BRANCH
+O primeiro passo para criar um novo repositório é estar logada na página do Github. Então, após clicar na imagem do perfil, é preciso clicar em Your repositories, e depois em New (botão verde no canto superior direito).
