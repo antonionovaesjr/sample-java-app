@@ -1,4 +1,0 @@
-asd
-O primeiro passo para criar um novo repositório é estar logada na página do Github. Então, após clicar na imagem do perfil, é preciso clicar em Your repositories, e depois em New (botão verde no canto superior direito).
-Pela regra da B3, quando a queda passa de 10% é acionado automaticamente o circuit breaker, mecanismo que interrompe as negociações de papeis por 30 minutos. A última vez que o mecanismo tinha sido acionado na bolsa brasileira foi no dia 18 de maio de 2017, em meio às denúncias do dono da JBS contra o presidente Michel Temer.
-
