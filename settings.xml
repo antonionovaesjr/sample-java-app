@@ -3,12 +3,12 @@
   	<servers>
 	<server>
 		<id>central</id>
-		<username>admin</useradmin>
+		<username>admin</username>
 		<password>123123123</password>
 	</server>
 	<server>
 		<id>snapshots</id>
-		<username>admin</useradmin>
+		<username>admin</username>
 		<password>123123123</password>
 	</server>
 	</servers>
