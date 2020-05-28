@@ -47,12 +47,16 @@
     
     <repository>
         <id>central</id>
+	<username>admin</username>
+        <password>123123123</password>
         <name>fd698aa66ee3-releases</name>
         <url>http://172.17.0.3:8081/artifactory/libs-release-local</url>
     </repository>
 
     <snapshotRepository>
         <id>snapshots</id>
+	<username>admin</username>
+        <password>123123123</password>
         <name>fd698aa66ee3-snapshots</name>
         <url>http://172.17.0.3:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
