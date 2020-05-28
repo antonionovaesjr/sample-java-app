@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sample</name>
 	<description>Sample Java Application</description>
-<servers>
+	<servers>
 	<server>
 		<id>central</id>
 		<username>admin</useradmin>
@@ -24,8 +24,7 @@
 		<username>admin</useradmin>
 		<password>123123123</password>
 	</server>
-</servers>
-	
+	</servers>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
